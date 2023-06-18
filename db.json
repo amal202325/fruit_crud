@@ -1,0 +1,22 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Mangorgvr",
+      "quantity": 54,
+      "price": 35058652
+    },
+    {
+      "id": 2,
+      "name": "Batikh",
+      "quantity": 10,
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "name": "mouz",
+      "price": 55,
+      "quantity": 55
+    }
+  ]
+}
